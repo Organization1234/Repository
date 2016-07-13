@@ -3,6 +3,7 @@
 /// This script is use for reset building on pattern when character die.
 /// </summary>
 //xiugaivvvvvvvvvvvvvv
+//hahahahahahah
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
